@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf9a5f39-72df-493e-a171-3ea7c99eb2ff" name="Default Changelist" comment="xiugai" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hAdCPdosm6by0GaSdjpgREmrMS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\dev-box\mySite\site" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf9a5f39-72df-493e-a171-3ea7c99eb2ff" name="Default Changelist" comment="" />
+      <created>1599457702407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599457702407</updated>
+      <workItem from="1599457703993" duration="7251000" />
+      <workItem from="1599525906122" duration="772000" />
+      <workItem from="1602032140466" duration="584000" />
+      <workItem from="1602032729762" duration="383000" />
+    </task>
+    <task id="LOCAL-00001" summary="xiugai">
+      <created>1599462666996</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599462666997</updated>
+    </task>
+    <task id="LOCAL-00002" summary="xiugai">
+      <created>1599462831370</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599462831370</updated>
+    </task>
+    <task id="LOCAL-00003" summary="xiugai">
+      <created>1599464473685</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599464473685</updated>
+    </task>
+    <task id="LOCAL-00004" summary="xiugai">
+      <created>1599464694108</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599464694108</updated>
+    </task>
+    <task id="LOCAL-00005" summary="xiugai">
+      <created>1599465647071</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599465647071</updated>
+    </task>
+    <task id="LOCAL-00006" summary="xiugai">
+      <created>1599466011872</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599466011872</updated>
+    </task>
+    <task id="LOCAL-00007" summary="xiugai">
+      <created>1599467532525</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599467532525</updated>
+    </task>
+    <task id="LOCAL-00008" summary="xiugai">
+      <created>1599526219707</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599526219707</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="xiugai" />
+    <option name="LAST_COMMIT_MESSAGE" value="xiugai" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="809" y="340" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599465305293">
+      <screen x="217" y="0" width="1703" height="1080" />
+    </state>
+    <state x="809" y="340" key="#com.intellij.fileTypes.FileTypeChooser/217.0.1703.1080/1920.10.1920.1080@217.0.1703.1080" timestamp="1599465305293" />
+    <state x="806" y="236" key="FileChooserDialogImpl" timestamp="1602032697161">
+      <screen x="239" y="0" width="1681" height="1080" />
+    </state>
+    <state x="806" y="236" key="FileChooserDialogImpl/239.0.1681.1080/1920.10.1920.1080@239.0.1681.1080" timestamp="1602032697161" />
+    <state x="660" y="273" key="Vcs.Push.Dialog.v2" timestamp="1599526224938">
+      <screen x="217" y="0" width="1703" height="1080" />
+    </state>
+    <state x="660" y="273" key="Vcs.Push.Dialog.v2/217.0.1703.1080/1920.10.1920.1080@217.0.1703.1080" timestamp="1599526224938" />
+    <state x="862" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599465575852">
+      <screen x="217" y="0" width="1703" height="1080" />
+    </state>
+    <state x="862" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/217.0.1703.1080/1920.10.1920.1080@217.0.1703.1080" timestamp="1599465575852" />
+    <state x="731" y="235" width="670" height="58" key="search.everywhere.popup" timestamp="1599461483379">
+      <screen x="217" y="0" width="1703" height="1080" />
+    </state>
+    <state x="731" y="235" width="670" height="58" key="search.everywhere.popup/217.0.1703.1080/1920.10.1920.1080@217.0.1703.1080" timestamp="1599461483379" />
+  </component>
+</project>
