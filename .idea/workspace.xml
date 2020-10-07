@@ -19,7 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf9a5f39-72df-493e-a171-3ea7c99eb2ff" name="Default Changelist" comment="xiugai" />
+    <list default="true" id="bf9a5f39-72df-493e-a171-3ea7c99eb2ff" name="Default Changelist" comment="xiugai">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font2.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/font2.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +74,7 @@
       <workItem from="1599457703993" duration="7251000" />
       <workItem from="1599525906122" duration="772000" />
       <workItem from="1602032140466" duration="584000" />
-      <workItem from="1602032729762" duration="383000" />
+      <workItem from="1602032729762" duration="3011000" />
     </task>
     <task id="LOCAL-00001" summary="xiugai">
       <created>1599462666996</created>
@@ -149,10 +155,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="xiugai" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="809" y="340" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599465305293">
-      <screen x="217" y="0" width="1703" height="1080" />
+    <state x="823" y="340" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602035553878">
+      <screen x="239" y="0" width="1681" height="1080" />
     </state>
     <state x="809" y="340" key="#com.intellij.fileTypes.FileTypeChooser/217.0.1703.1080/1920.10.1920.1080@217.0.1703.1080" timestamp="1599465305293" />
+    <state x="823" y="340" key="#com.intellij.fileTypes.FileTypeChooser/239.0.1681.1080/1920.10.1920.1080@239.0.1681.1080" timestamp="1602035553878" />
     <state x="806" y="236" key="FileChooserDialogImpl" timestamp="1602032697161">
       <screen x="239" y="0" width="1681" height="1080" />
     </state>
